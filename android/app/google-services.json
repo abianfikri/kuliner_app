@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553427056088",
+    "project_id": "kulinerapp-f50a7",
+    "storage_bucket": "kulinerapp-f50a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553427056088:android:0387cac6836850279c6ead",
+        "android_client_info": {
+          "package_name": "com.example.flutter_kuliner_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2J4eI6uvlz32NSPT8zn66B981qobiGa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
